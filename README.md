@@ -1,4 +1,4 @@
-# antibiotic_use_associated_microbiome_changes
+# Antibiotic use associated microbiome changes
 Please note that due to the majority of our scripts having been configured to the high-performance computing system of our research institute, these script are for review purpose only and major modification may be required to ensure it works on your system.
 
 <h2>16s rRNA analysis</h1>
